@@ -5,3 +5,5 @@ Made to troubleshoot issues I encountered after installing canary version of nex
 
 ## testing git
 Testing git
+
+Testing git again after Canary install
